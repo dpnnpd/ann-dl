@@ -4,7 +4,9 @@
 # =============================================================================
 site_name: Artificial Neural Networks and Deep Learning
 site_author: Davi Peter Bastian Nehls
-# Add site_url, repo_url, and repo_name after creating the GitHub repository.
+site_url: https://dpnnpd.github.io/ann-dl
+repo_url: https://github.com/dpnnpd/ann-dl
+repo_name: dpnnpd/ann-dl
 
 theme:
   name: material

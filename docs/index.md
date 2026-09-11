@@ -18,7 +18,7 @@ Quem responde por este repositório. Os **exercícios são individuais**; a equi
 
 | Nome completo | E-mail | GitHub |
 |---------------|--------|--------|
-| Davi Peter Bastian Nehls | davipeternehls@gmail.com | Pending repository upload |
+| Davi Peter Bastian Nehls | davipeternehls@gmail.com | [dpnnpd](https://github.com/dpnnpd) |
 
 ## Status das entregas
 
