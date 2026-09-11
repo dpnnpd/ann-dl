@@ -16,8 +16,8 @@ histórico do Git).
 Quem responde por este repositório. Os **exercícios são individuais**; a equipe do projeto
 — que pode ser diferente — fica registrada na [página do projeto](projects/index.md).
 
-| Nome completo | E-mail | GitHub |
-|---------------|--------|--------|
+| Nome completo            | E-mail                   | GitHub                             |
+| ------------------------ | ------------------------ | ---------------------------------- |
 | Davi Peter Bastian Nehls | davipeternehls@gmail.com | [dpnnpd](https://github.com/dpnnpd) |
 
 ## Status das entregas
@@ -33,7 +33,7 @@ Quem responde por este repositório. Os **exercícios são individuais**; a equi
 
 ### Exercícios — individuais
 
-- [x] [Data](exercises/data/index.ipynb)
+- [X] [Data](exercises/data/index.ipynb)
 - [ ] [Perceptron](exercises/perceptron/index.md)
 - [ ] [MLP](exercises/mlp/index.md)
 - [ ] [VAE](exercises/vae/index.md)
@@ -48,14 +48,14 @@ Um projeto, um dataset, três entregas:
 
 ## Checklist antes de cada entrega
 
-- [ ] Repositório **público** e o GitHub Pages construindo sem erro.
-- [x] Caminho correto: `docs/exercises/data/index.ipynb`.
-- [x] Metadados `exercise:` e `ai_use:` preenchidos no notebook.
-- [x] Títulos espelhando a estrutura do enunciado (`## Exercise N`, `### A`, `### B`, ...).
-- [x] Figuras numeradas e salvas nas saídas do notebook.
-- [x] Código incluído diretamente no notebook.
-- [x] Tabela **Results summary** completa, sem linhas em branco.
-- [ ] Último commit anterior ao prazo.
+- [X] Repositório **público** e o GitHub Pages construindo sem erro.
+- [X] Caminho correto: `docs/exercises/data/index.ipynb`.
+- [X] Metadados `exercise:` e `ai_use:` preenchidos no notebook.
+- [X] Títulos espelhando a estrutura do enunciado (`## Exercise N`, `### A`, `### B`, ...).
+- [X] Figuras numeradas e salvas nas saídas do notebook.
+- [X] Código incluído diretamente no notebook.
+- [X] Tabela **Results summary** completa, sem linhas em branco.
+- [X] Último commit anterior ao prazo.
 
 !!! danger "Escreva para defender"
 
