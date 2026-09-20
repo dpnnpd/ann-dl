@@ -43,9 +43,7 @@ Datas e pesos são da sua edição — veja o
 
 !!! warning "Escolha uma: classificação ou regressão"
 
-    A segunda entrega é **uma das duas**, não as duas. Este template traz as duas pastas
-    para você escolher; depois de decidir, apague a que não vai usar — da pasta `docs/projects/`
-    **e** da `nav` no `mkdocs.yml`.
+    A segunda entrega é **uma das duas**, não as duas.
 
 ## Dataset
 

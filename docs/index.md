@@ -6,10 +6,7 @@
 
     [Enunciados :material-open-in-new:](https://insper.github.io/ann-dl/){:target='_blank'}
 
-Este site é o **portfólio** das entregas da disciplina. Ele cresce ao longo do semestre:
-cada exercício e cada projeto vira um item de menu, e o repositório que o gera é parte
-da avaliação — o professor lê o site publicado **e** o repositório (Markdown, código e
-histórico do Git).
+Este site reúne os exercícios e projetos da disciplina.
 
 ## Identificação
 
@@ -25,16 +22,12 @@ Quem responde por este repositório. Os **exercícios são individuais**; a equi
 !!! info "Datas, pesos e regras são da sua edição"
 
     O [overview da edição](https://insper.github.io/ann-dl/){:target='_blank'} traz o
-    calendário, os pesos de cada entrega e as regras de avaliação. Este template não os
-    repete — copie para cá o que a sua turma precisa acompanhar, ou mantenha só o status.
-
-    A lista abaixo é o conjunto usual de entregas; acrescente ou remova itens conforme a
-    sua edição, ajustando também as pastas em `docs/` e a `nav` do `mkdocs.yml`.
+    calendário, os pesos de cada entrega e as regras de avaliação.
 
 ### Exercícios — individuais
 
 - [X] [Data](exercises/data/index.ipynb)
-- [X] [Perceptron](exercises/perceptron/index.md)
+- [X] [Perceptron](exercises/perceptron/index.ipynb)
 - [ ] [MLP](exercises/mlp/index.md)
 - [ ] [VAE](exercises/vae/index.md)
 

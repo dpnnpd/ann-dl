@@ -142,7 +142,7 @@ nav:
   # A lista de entregas muda de edição para edição: acrescente ou remova itens
   # aqui e as pastas correspondentes em docs/.
   - Data: exercises/data/index.ipynb
-  - Perceptron: exercises/perceptron/index.md
+  - Perceptron: exercises/perceptron/index.ipynb
   - MLP: exercises/mlp/index.md
   - VAE: exercises/vae/index.md
 

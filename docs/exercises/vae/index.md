@@ -9,13 +9,6 @@ ai_use: "none"
 
     [Exercises → VAE](https://insper.github.io/ann-dl/){:target='_blank'}
 
-!!! tip "Como preencher"
-
-    Espelhe a estrutura do enunciado (`## Exercise N` → `### A`, `### B`, ...), coloque os
-    scripts em `code/` e as imagens em `figures/`. O exercício
-    [1. Data](../data/index.ipynb) traz o modelo completo em notebook,
-    figura legendada e tabela de resultados.
-
 ## Exercise 1
 
 ### Abordagem
@@ -23,11 +16,6 @@ ai_use: "none"
 ### Código
 
 ### Figuras
-
-![Substitua por uma figura gerada pelo seu código](figures/fig01-exemplo.svg)
-/// caption
-**Figura 1** — legenda descrevendo o que a figura mostra.
-///
 
 ### Análise
 
